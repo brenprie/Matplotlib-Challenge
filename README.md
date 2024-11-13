@@ -69,6 +69,7 @@ hint: All four box plots should be within the same figure. Use this Matplotlib d
 2. Plot the linear regression model on top of the previous scatter plot.
 
 ## Data and script files
+[Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals/data) to data files under /Pymaceuticals/Data on this repo. 
 
 ## Output 
 
