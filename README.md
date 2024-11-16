@@ -61,6 +61,7 @@ Create a DataFrame of summary statistics. Your summary statistics should include
 [Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals) to script file pymaceuticals_final_draft.ipynb under /Pymaceuticals on this repo. 
 
 ## Output 
+[Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals/output%20screenshots) to output screenshots under /Pymaceuticals/output screenshots on this repo.
 
 ## Script hightlights
 imports, formated prints, merges, dataframe creation/subset manipulation, .unique, .nunique, .value_counts, .size, len, .duplicated, .loc, .isin (and ~ .isin), .groupby, .mean (median, sum, var, std, sem), .agg, .sort_values, DF.plot(kind= ...), plt.bar (or pie), for loop, if / else, statistical and regression analysis.
