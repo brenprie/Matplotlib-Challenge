@@ -13,15 +13,6 @@ The executive team has tasked you with generating all of the tables and figures 
 
 ## Instructions
 
-This assignment is broken down into the following tasks:
-* Prepare the data.
-* Generate summary statistics.
-* Create bar charts and pie charts.
-* Calculate quartiles, find outliers, and create a box plot.
-* Create a line plot and a scatter plot.
-* Calculate correlation and regression.
-* Submit your final analysis.
-
 ### Prepare the Data
 
 1. Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
@@ -56,8 +47,6 @@ Your summary statistics should include:
 
 2. Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
 
-hint: All four box plots should be within the same figure. Use this Matplotlib documentation page Links to an external site. for help with changing the style of the outliers.
-
 ### Create a Line Plot and a Scatter Plot
 
 1. Select a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
@@ -69,7 +58,9 @@ hint: All four box plots should be within the same figure. Use this Matplotlib d
 2. Plot the linear regression model on top of the previous scatter plot.
 
 ## Data and script files
-[Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals/data) to data files under /Pymaceuticals/Data on this repo. 
+[Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals/data) to Mouse_metadata.csv and Study_results.csv data files under /Pymaceuticals/Data on this repo. 
+
+[Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals) to script file pymaceuticals_final_draft.ipynb under /Pymaceuticals on this repo. 
 
 ## Output 
 
