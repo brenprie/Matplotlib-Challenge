@@ -1,7 +1,4 @@
 # Matplotlib-Challenge
-What good is data without a good plot to tell the story?
-
-In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
 
 ## Background
 
@@ -61,7 +58,11 @@ Create a DataFrame of summary statistics. Your summary statistics should include
 [Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals) to script file pymaceuticals_final_draft.ipynb under /Pymaceuticals on this repo. 
 
 ## Output 
-[Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals/output%20screenshots) to output screenshots under /Pymaceuticals/output screenshots on this repo.
+[Link](https://github.com/brenprie/Matplotlib-Challenge/tree/main/Pymaceuticals/output%20screenshots) to output screenshots under /Pymaceuticals/output screenshots on this repo. Summary analysis:
+
+![Analysis](https://github.com/user-attachments/assets/dd327bdc-09d3-4da7-80b2-dc614cd96cfb)
+
+
 
 ## Script hightlights
 imports, formated prints, merges, dataframe creation/subset manipulation, .unique, .nunique, .value_counts, .size, len, .duplicated, .loc, .isin (and ~ .isin), .groupby, .mean (median, sum, var, std, sem), .agg, .sort_values, DF.plot(kind= ...), plt.bar (or pie), for loop, if / else, statistical and regression analysis.
